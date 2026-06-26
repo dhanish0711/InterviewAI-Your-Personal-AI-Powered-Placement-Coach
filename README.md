@@ -7,6 +7,14 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Groq_Whisper-orange?style=for-the-badge&logoColor=white" alt="Groq Whisper" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <br/><br/>
+  <a href="https://interviewai-your-personal-ai-powered-placement-coach-qfjrkp4tt.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>🚀 Deployed Live Application:</strong> <a href="https://interviewai-your-personal-ai-powered-placement-coach-qfjrkp4tt.streamlit.app/" target="_blank">interviewai-your-personal-ai-powered-placement-coach-qfjrkp4tt.streamlit.app</a>
 </p>
 
 ---
