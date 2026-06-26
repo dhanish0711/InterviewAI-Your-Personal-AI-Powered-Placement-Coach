@@ -3,7 +3,7 @@ import os
 import time
 from dotenv import load_dotenv
 from database import get_resume, get_connection
-from gemini_service import generate_mcq_test
+from ai_service import generate_mcq_test
 
 load_dotenv(override=True)
 
