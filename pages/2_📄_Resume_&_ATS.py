@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 from pypdf import PdfReader
 from dotenv import load_dotenv
 from database import save_resume, get_resume
-from gemini_service import parse_resume_with_ai, evaluate_ats_compatibility
+from ai_service import parse_resume_with_ai, evaluate_ats_compatibility
 
 load_dotenv(override=True)
 
