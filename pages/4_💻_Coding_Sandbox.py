@@ -2,7 +2,7 @@ import streamlit as st
 import os
 from dotenv import load_dotenv
 from database import log_coding_round, get_resume
-from gemini_service import evaluate_code_with_ai, generate_coding_problem
+from ai_service import evaluate_code_with_ai, generate_coding_problem
 
 load_dotenv(override=True)
 
