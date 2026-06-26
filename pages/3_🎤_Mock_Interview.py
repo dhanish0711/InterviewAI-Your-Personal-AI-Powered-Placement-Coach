@@ -6,7 +6,7 @@ import wave
 import re
 from dotenv import load_dotenv
 from database import start_interview, log_interview_question, finalize_interview, get_resume
-from gemini_service import generate_interview_questions, evaluate_response, generate_final_report, analyze_audio_response
+from ai_service import generate_interview_questions, evaluate_response, generate_final_report, analyze_audio_response
 
 load_dotenv(override=True)
 
