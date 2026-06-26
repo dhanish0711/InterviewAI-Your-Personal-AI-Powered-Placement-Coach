@@ -1,0 +1,7 @@
+streamlit
+pypdf
+plotly
+python-dotenv
+fpdf2
+groq
+ibm-watsonx-ai
